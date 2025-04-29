@@ -9,12 +9,9 @@ export default defineConfig({
   // Change the page config here
   themeConfig: {
     nav: [
-      { text: "Documentation", link: "#" },
-      { text: "Pricing", link: "#" },
-      { text: "Support", link: "#" },
-      { text: "Contact sales", link: "/contact", action: "secondary" },
+      { text: "Home", link: "#" },
       {
-        text: "Launch workspace",
+        text: "Login",
         link: "https://hub.eox.at/hub",
         action: "primary",
       },

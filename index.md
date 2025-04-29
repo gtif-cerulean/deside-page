@@ -1,19 +1,16 @@
 ---
 layout: home
 hero:
-  name: Hello World!
-  text: My new EOX-styled page
+  name: DESIDE
+  text: DESIDE Project
   tagline: Let's get started
   image:
-    src: http://picsum.photos/1000/800
+    src: https://platform.destine.eu/wp-content/uploads/2023/08/digital-earth-02-abt.jpg
     alt: Hero Image
   actions:
     - theme: brand
       text: Get Started
       link: /foo
-    - theme: alt
-      text: Contact Sales
-      link: /bar
 ---
 
 # Let's get started!

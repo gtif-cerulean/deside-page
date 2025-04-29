@@ -1,0 +1,25 @@
+/* .vitepress/theme/styles/custom.css */
+:root {
+    --vp-c-brand: #ff5733;
+}
+
+body {
+    font-family: 'Roboto', 'Arial Black', sans-serif;
+    background-color: #0c1426;
+    color: #f7f8f8!important;
+}
+
+.top-nav {
+    background-color: #0c1426!important;
+    color: #f7f8f8!important;
+}
+
+.surface.row.center-align {
+    background-color: #0c1426!important;
+    color: #f7f8f8!important;
+}
+
+.feature-section > .holder {
+    background-color: #182031!important;
+    color: #f7f8f8!important;
+}
