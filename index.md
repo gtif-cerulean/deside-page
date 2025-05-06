@@ -2,7 +2,7 @@
 layout: home
 hero:
   name: DESIDE
-  text: DESIDE Project
+  text: DESIDE
   tagline: Let's get started
   image:
     src: https://platform.destine.eu/wp-content/uploads/2023/08/digital-earth-02-abt.jpg
@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: /foo
+      link: https://workspace.deside.hub-otc.eox.at/
 ---
 
 # Let's get started!

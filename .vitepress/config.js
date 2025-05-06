@@ -9,10 +9,10 @@ export default defineConfig({
   // Change the page config here
   themeConfig: {
     nav: [
-      { text: "Home", link: "#" },
+      // { text: "Home", link: "#" },
       {
         text: "Login",
-        link: "https://hub.eox.at/hub",
+        link: "https://workspace.deside.hub-otc.eox.at/",
         action: "primary",
       },
     ],
